@@ -1,4 +1,3 @@
-# gestor_app/urls.py
 from django.urls import path
 from .views import listar_productos, agregar_producto, editar_producto, eliminar_producto
 

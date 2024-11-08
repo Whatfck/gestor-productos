@@ -1,4 +1,3 @@
-# gestor_app/views.py
 from django.shortcuts import render, redirect
 from .models import Producto
 from .forms import ProductoForm
